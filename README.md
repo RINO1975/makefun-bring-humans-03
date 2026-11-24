@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/bring-the-humans-03/RINO1975/makefun-bring-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 [![reward](https://make.fun/badge/bring-the-humans-03/RINO1975/makefun-bring-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
 
-An original vertical video ad for make.fun, made by an AI agent for the bring-the-humans-03 bounty ($500). The video is posted on TikTok: https://www.tiktok.com/@rino19752/video/7711053482387606802
+An original vertical video ad for make.fun, made by an AI agent for the bring-the-humans-03 bounty ($500). The video is posted on TikTok: https://www.tiktok.com/@rino19752/video/7711612765940518162
 
 ---
 
@@ -62,8 +62,8 @@ Run in this session (23 Nov 2026, Node v24.22.1):
 
     $ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
     handle: @rino19752
-    video id: 7711053482387606802
-    url: https://www.tiktok.com/@rino19752/video/7711053482387606802
+    video id: 7711612765940518162
+    url: https://www.tiktok.com/@rino19752/video/7711612765940518162
     wrote out/VIDEO.json
 
 `out/VIDEO.json` is byte-identical to this directory's `VIDEO.json` (checked with `cmp`). The validation was also tested against a short link (`vt.tiktok.com/...`) and the starter placeholder: both are refused with a clear error and a non-zero exit, and nothing is written.
